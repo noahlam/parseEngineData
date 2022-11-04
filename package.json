@@ -1,6 +1,6 @@
 {
   "name": "@noahlam/parse-engine-data",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "parse engine data in psd file",
   "main": "./lib/parseEngineData.js",
   "dependencies": {},
